@@ -10,4 +10,4 @@ For example if a user chooses 4 special characters and 4 uppercase letters and 1
 
 # TO DO LIST
 
-- [] Create a GUI (Graphical User Interface)
+- [ ] Create a GUI (Graphical User Interface)  
